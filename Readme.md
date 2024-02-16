@@ -535,7 +535,7 @@ Connect with him: [Harsh&#39;s Linkedin Profile](https://www.linkedin.com/in/har
 
 ## Homepage
 
-For checking out the effect, check out the [Homepage]([/examples/](https://github.com/Ssaj525/Animox.js)) directory in the Animox.js repository.
+For checking out the effect, check out the [Homepage](https://github.com/Ssaj525/Animox.js) directory in the Animox.js repository.
 
 
 Connect with me: satauheed.business@gmail.com
